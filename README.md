@@ -1,9 +1,11 @@
-# LandingPageMargaridas
+# LandingPageMargaridas 🌼
 
 *Página principal de lojinha de flores*
 
 Projeto desenvolvido por mim para treinamento em HTML e CSS.
 
-Figma: https://www.figma.com/file/bjDnnvVDovaFXrWa39zJ7S/margaridas?node-id=0%3A1&t=DTX2JH3M8mBU3C75-1
+Figma:https://www.figma.com/proto/bjDnnvVDovaFXrWa39zJ7S/margaridas?node-id=3%3A85&scaling=min-zoom&page-id=0%3A1
+
+<img src="https://discord.com/channels/1062501775334191235/1062501775808155650">
 
 Crédito *Rafa Ballerine*
